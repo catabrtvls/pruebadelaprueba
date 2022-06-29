@@ -2936,7 +2936,7 @@ header.masthead .masthead-heading {
     font-weight: 700;
     line-height: 2rem;
     margin-bottom: 2rem;
-    font-family: "Mulish", sans-serif;
+    font-family: 'Mulish', sans-serif;
 }
 @media (min-width: 768px) {
     header.masthead {
